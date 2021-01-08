@@ -1,0 +1,13 @@
+EXTENSI VISUAL STUDIO CODE
+extensi visual studio code web developer
+
+1. sublime text keymap                      = key sublime
+2. open in browser                          = untuk membuka browser di viscode
+3. live server                              = untuk server live koding html
+4. auto rename tag                          = untuk otomatis mengganti penutup dan pembuka tag html 
+5. IntelliSense for CSS class names in HTML = untuk memberi tahu tag css 
+6. css peek                                 = klik ctrl atau command maka dia akan memberitahu kodingan css 
+7. bracket pair colorizer                   = untuk mewarnai kurung kurawal (berguna untuk php dan javascript)
+8. beautify                                 = untuk memformat atau merapikan kodingan
+9. php IntelliSense                         = untuk auto tag PHP
+10. one dark pro (tema VS)                  = template untuk visual code
